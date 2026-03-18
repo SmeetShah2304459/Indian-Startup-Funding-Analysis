@@ -1,5 +1,0 @@
-# Ignore frontend and backend files in GitHub's language statistics
-# This will force GitHub to show your repository as mostly or 100% SQL
-frontend/** linguist-vendored
-backend/** linguist-vendored
-*.json linguist-vendored
