@@ -127,9 +127,9 @@ CALL GetTopStartupsByIndustry('FinTech', 5);
 
 ## 👤 Author
 
-**Your Name Here**  
-B.Sc / BCA / B.Tech (Your Degree)  
-GitHub: [your-github-username](https://github.com)
+**Smeet Shah**  
+B.Tech (Computer Science Engineering and Data Science)  
+GitHub: [SmeetShah2304459](https://github.com/SmeetShah2304459)
 
 ---
 
